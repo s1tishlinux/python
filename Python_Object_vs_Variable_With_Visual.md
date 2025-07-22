@@ -7,15 +7,10 @@
 - A variable is just a **name or label** that points to a value in memory.
 - Think of it like a nickname: `x = 5` → “x” is a name for the value 5.
 
-**Telugu + English Explanation:**
-Variable అనేది **ఒక పేరు మాత్రమే**. Python లో ఒక valueకి మనం ఇచ్చే పేరు.
 
 ```python
 x = 5
 ```
-
-ఇక్కడ `x` అనేది variable. `5` అనే valueని represent చేయడానికి మనం ఇచ్చిన పేరు.
-
 ---
 
 ## 🧠 What is an Object?
@@ -26,13 +21,6 @@ x = 5
   - Type (what kind of value it is)
   - ID (memory address)
 - In Python, even simple things like `5` are objects.
-
-**Telugu + English Explanation:**
-Object అనేది **Python memory లో ఉండే ఒక structure**.
-దీంట్లో మూడు ముఖ్యమైన విషయాలు ఉంటాయి:
-1. **Value** – actual data (e.g., 5)
-2. **Type** – object type (e.g., int)
-3. **ID** – memory లో object ఏ location లో ఉందో
 
 ---
 
